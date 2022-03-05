@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrema_docs=self.webpackChunkrema_docs||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Our New Blog","permalink":"/rema-docs/blog/welcome"}]}')}}]);

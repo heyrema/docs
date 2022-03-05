@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrema_docs=self.webpackChunkrema_docs||[]).push([[861],{5636:function(e){e.exports=JSON.parse('{"permalink":"/blog/tags/new","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

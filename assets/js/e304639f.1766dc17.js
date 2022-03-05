@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrema_docs=self.webpackChunkrema_docs||[]).push([[693],{2952:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/rema","name":"rema","count":1,"permalink":"/blog/tags/rema"}')}}]);
