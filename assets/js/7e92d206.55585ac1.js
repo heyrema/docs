@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrema_docs=self.webpackChunkrema_docs||[]).push([[888],{674:function(a){a.exports=JSON.parse('{"allTagsPath":"/rema-docs/blog/tags","slug":"/rema-docs/blog/tags/rema","name":"rema","count":1,"permalink":"/rema-docs/blog/tags/rema"}')}}]);

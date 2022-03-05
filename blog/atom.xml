@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://paramsiddharth.github.io/rema-docs/blog</id>
+    <title>Rema Blog</title>
+    <updated>2022-03-02T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://paramsiddharth.github.io/rema-docs/blog"/>
+    <subtitle>Rema Blog</subtitle>
+    <icon>https://paramsiddharth.github.io/rema-docs/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Our New Blog]]></title>
+        <id>welcome</id>
+        <link href="https://paramsiddharth.github.io/rema-docs/blog/welcome"/>
+        <updated>2022-03-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello world!]]></summary>
+        <content type="html"><![CDATA[<p>Hello world!</p><p>Welcome to the Rema's new blog! We will mostly post here about new updates and features,
+sometimes you'll find announcements related to the development and use of Rema.</p><p>Since we made the documentation for Rema using Docusaurus,
+this blog is integrated into the same. For further updates to the documentation, we will
+prioritize this webpage over the wiki (which will eventually be deprecated).</p><p>We have big plans, and much more coming in the coming days. Till then, bye!</p>]]></content>
+        <author>
+            <name>Param Siddharth</name>
+            <uri>https://www.paramsid.com</uri>
+        </author>
+        <category label="blog" term="blog"/>
+        <category label="rema" term="rema"/>
+        <category label="new" term="new"/>
+    </entry>
+</feed>
