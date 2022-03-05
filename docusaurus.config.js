@@ -14,7 +14,7 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'paramsiddharth', // Usually your GitHub org/user name.
-  projectName: 'rema', // Usually your repo name.
+  projectName: 'rema-docs', // Usually your repo name.
   trailingSlash: true,
 
   presets: [
