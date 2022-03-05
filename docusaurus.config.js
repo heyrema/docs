@@ -9,7 +9,7 @@ const config = {
   title: 'Rema',
   tagline: 'A powerful certificate generation, verification and management system.',
   url: 'https://paramsiddharth.github.io',
-  baseUrl: '/rema-docs/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
