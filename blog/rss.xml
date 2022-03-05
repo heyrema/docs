@@ -13,7 +13,7 @@
             <guid>welcome</guid>
             <pubDate>Wed, 02 Mar 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Hello world!]]></description>
-            <content:encoded><![CDATA[<p>Hello world!</p><p>Welcome to the Rema's new blog! We will mostly post here about new updates and features,
+            <content:encoded><![CDATA[<p>Hello world!</p><p>Welcome to Rema's new blog! We will mostly post here about new updates and features,
 sometimes you'll find announcements related to the development and use of Rema.</p><p>Since we made the documentation for Rema using Docusaurus,
 this blog is integrated into the same. For further updates to the documentation, we will
 prioritize this webpage over the wiki (which will eventually be deprecated).</p><p>We have big plans, and much more coming in the coming days. Till then, bye!</p>]]></content:encoded>

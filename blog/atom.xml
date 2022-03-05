@@ -13,7 +13,7 @@
         <link href="https://paramsiddharth.github.io/blog/welcome"/>
         <updated>2022-03-02T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hello world!]]></summary>
-        <content type="html"><![CDATA[<p>Hello world!</p><p>Welcome to the Rema's new blog! We will mostly post here about new updates and features,
+        <content type="html"><![CDATA[<p>Hello world!</p><p>Welcome to Rema's new blog! We will mostly post here about new updates and features,
 sometimes you'll find announcements related to the development and use of Rema.</p><p>Since we made the documentation for Rema using Docusaurus,
 this blog is integrated into the same. For further updates to the documentation, we will
 prioritize this webpage over the wiki (which will eventually be deprecated).</p><p>We have big plans, and much more coming in the coming days. Till then, bye!</p>]]></content>
