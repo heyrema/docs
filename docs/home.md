@@ -19,9 +19,9 @@ documentation and get started with your first issue.
   - [Execution](./setup/execution) : Running Rema on a production server.
   - [Development Setup](./setup/development-setup) : All about setting up the development environment for Rema.
   - [Environment Variables](./setup/environment-variables) : The environment variables that affect the execution of Rema.
-- [Templates](./templates/templates) : The concept of templates and how they can be used to generate certificates.
+- [Templates](./templates) : The concept of templates and how they can be used to generate certificates.
   - [Template API](./templates/template-api) : The API that can be harnessed to automate template-handling in Rema.
-- [Certificates](./certificates/certificates) : The internal storage schema of certificates.
+- [Certificates](./certificates) : The internal storage schema of certificates.
   - [Certificate API](./certificates/certificate-api) : The API used to generate, render, and manage certificates.
 - [Fonts](./fonts) : Using fonts for textual fields.
 - [Placeholders](./placeholders) : Rendering certificate date/UID inside the certificate as fields, et cetera.

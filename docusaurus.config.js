@@ -15,6 +15,7 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'paramsiddharth', // Usually your GitHub org/user name.
   projectName: 'rema', // Usually your repo name.
+  trailingSlash: true,
 
   presets: [
     [
@@ -75,7 +76,7 @@ const config = {
             items: [
               {
                 label: 'Documentation',
-                to: '/docs/',
+                to: '/docs',
               },
             ],
           },
