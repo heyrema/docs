@@ -4,7 +4,7 @@ slug: /
 ---
 
 # Home
-Welcome to the Rema Wiki!
+Welcome to Rema's documentation!
 
 Rema is a powerful and scalable certificate generation and management system for individuals, businesses, and organizations.
 
