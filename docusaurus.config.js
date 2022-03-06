@@ -119,7 +119,7 @@ const config = {
             ],
           },
         ],
-        copyright: `© Param Siddharth 2022-${new Date().getFullYear()}.\nBuilt with Docusaurus.`,
+        copyright: `© Param Siddharth 2022-${new Date().getFullYear()}`,
       },
       prism: {
         theme: lightCodeTheme,
